@@ -12,16 +12,9 @@ This is an interactive sales dashboard built using Excel. The dashboard allows u
 - Conditional formatting to highlight trends.
 - Export options for reports.
 
-## Screenshots
-![Dashboard Screenshot](./screenshots/dashboard.png)
-
 ## Getting Started
 ### Prerequisites
 - Microsoft Excel 2016 or higher.
-  
-### Installation
-1. Clone this repository or download the `SalesDashboard.xlsx` file.
-2. Open the Excel file in Excel.
 
 ## Usage
 1. Input your sales data in the "Data" sheet.
@@ -42,6 +35,3 @@ The dataset should include the following columns:
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. Suggestions and improvements are welcome!
-
-## License
-This project is licensed under the MIT License.
